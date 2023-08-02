@@ -1,12 +1,24 @@
 ## Opa, bão?
-- 💻 Sistemas de Informação - UTFPR
-- 🌱 Atualmente estudando FullStack Skills
 
+<ul>
+  <li>
+    💻 Information Systems - UTFPR
+  </li>
+  <li>
+    🌱 I'm currently learning FullStack Skills
+  </li>
+  <li>
+    🧗‍♂️ Fun fact: I'm a rock climber
+  </li>
+</ul>
+
+##
 <div>
   <a href="https://github.com/ImCanuto">
   <img height="150em" src="https://imcanutostats.vercel.app/api?username=ImCanuto&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://imcanutostats.vercel.app/api/top-langs/?username=ImCanuto&layout=compact&langs_count=7&theme=darcula"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Samu-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
