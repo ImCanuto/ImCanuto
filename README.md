@@ -15,7 +15,7 @@
 ##
 <div>
   <a href="https://github.com/ImCanuto">
-  <img height="150em" src="https://github-readme-stats-git-master-imcanuto.vercel.app/api?username=ImCanuto&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-git-master-imcanuto.vercel.app/api?username=ImCanuto&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="150em" src="https://github-readme-stats-git-master-imcanuto.vercel.app/api/top-langs/?username=ImCanuto&layout=compact&langs_count=10&theme=darcula"/>
 </div>
 
