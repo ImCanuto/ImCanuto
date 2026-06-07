@@ -4,7 +4,7 @@
 <br/>
 
 - 💻 Sistemas de Informação - UTFPR
-- 🌱 Atualmente estou aprendendo noções de **FullStack** e **Análise de Dados**
+- 🌱 Atualmente estou aprendendo noções de **Observabilidade** e **Monitoramento**
 - 🧗‍♂️ Fun fact: Sou escalador de montanha
 
 <br/>
